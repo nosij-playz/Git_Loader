@@ -59,11 +59,7 @@ You will need a [GitHub Personal Access Token (PAT)](https://github.com/settings
 
 **Jison Joseph Sebastian**
 
-For doubts and queries, contact me here: [https://myporfolio-1o1h.onrender.com/contact](https://myporfolio-1o1h.onrender.com/contact)
+For doubts and queries: [contact me](https://myporfolio-1o1h.onrender.com/contact)
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.  
-Feel free to use, modify, and distribute it!
